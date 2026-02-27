@@ -1,0 +1,14 @@
+001
+npx create-react-app mern-frontend
+cd mern-frontend
+npm install axios bootstrap
+npm start
+npm run build
+
+002
+deployment stepa:
+update axios url to your backend deployed url
+push code to github
+vercel->new repo->import git repo
+deploy as static react app
+
