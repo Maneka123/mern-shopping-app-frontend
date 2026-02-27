@@ -12,3 +12,9 @@ push code to github
 vercel->new repo->import git repo
 deploy as static react app
 
+003
+all files
+---public/index.html
+put bootstrap link inside head
+---src/App.js
+
