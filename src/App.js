@@ -9,7 +9,7 @@ function App() {
     axios
       //.get("http://localhost:5000/api/products")
       //.get("/api/products")
-      .get("https://mern-shopping-app-backend.vercel.app/api/products")
+      .get("https://mern-shopping-app-backend-z5qj.vercel.app/api/products")
       .then((res) => setProducts(res.data))
       .catch((err) => console.log(err));
   }, []);
